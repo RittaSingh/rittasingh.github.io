@@ -4,7 +4,6 @@ th, td {
   text-align: left;
 }
 
-
 body {
   min-width: 1110px;
 }
@@ -99,7 +98,7 @@ a:visited {
 
 a:hover {
   text-decoration: underline;
-  color: #37c2cd;
+  color: white;
 }
 
 .main-inner {
